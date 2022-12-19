@@ -18,7 +18,7 @@ class Layout extends Component {
             <div style={styles.layout}>
                 <div style={styles.container}>
                     {this.props.children}
-                    lalal
+
                 </div>
 
             </div>
